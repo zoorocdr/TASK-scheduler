@@ -1,0 +1,60 @@
+body{
+  background-color:rgba(0, 0, 0, 0.845);
+  display: flex;
+  justify-content: center;
+}
+#project{
+  display: flex;
+  position:fixed;
+  padding: 10px;
+  width:600px;
+  border:4px solid blue;
+  border-radius: 5px;
+  align-items: center;
+}
+#body_like{
+  margin-top: 35px;
+  
+}
+#task-modifiers{
+  background-color: pink;
+  padding: 5px;
+  display: flex;
+  position: absolute;
+  top:5px;
+  right:4px;
+  left:4px;
+  flex-direction:row;
+  justify-content: space-between;
+  border-radius: 3px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
